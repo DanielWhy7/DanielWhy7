@@ -1,3 +1,4 @@
+![logo](https://github.com/DanielWhy7/DanielWhy7/blob/main/github-header-image.png)
 <h1 align="center">Здарова, Я Даниэль</h1>
 <h3 align="center">Узучаю Питон и С++</h3>
 
