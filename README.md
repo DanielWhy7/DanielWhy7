@@ -1,6 +1,6 @@
 ![logo](https://github.com/DanielWhy7/DanielWhy7/blob/main/github-header-image.png)
 <h1 align="center">Здарова, Я Даниэль</h1>
-<h3 align="center">Узучаю Питон и С++</h3>
+<h3 align="center">Узучаю С</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielwhy7&label=Profile%20views&color=0e75b6&style=flat" alt="danielwhy7" /> </p>
 
